@@ -8,7 +8,6 @@ public class Usuario {
         smartTv.diminuirVolume();
        
         smartTv.aumentarVolume();
-        
         System.out.println("Canal Atual: " + smartTv.canal);
 
         smartTv.mudarCanal(13);
